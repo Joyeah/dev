@@ -1,0 +1,10 @@
+# Desktop App 
+## Electron
+200M以上
+## tauri 
+based Rust. 最小10M+
+支持vue,js, svlet, react等前端技术
+ desktop applications with a web frontend. (by tauri-apps)
+## Slint: The Next-Generation Native GUI Toolkit Matures
+Rust UI. embedded devices and desktop applications.
+support multiple programming languages, such as Rust, C++, or JavaScript. (by slint-ui)
